@@ -1,13 +1,12 @@
 description: Precision barometric sensor
 github_branch: ALTIMET01A
+github_branches:
+- ALTIMET01A
 github_repo: ALTIMET01
 github_url: https://github.com/mlab-modules/ALTIMET01
 homepage: true
+image: doc/img/ALTIMET01A_I2C_top_big.jpg
 images:
-- doc/assets/graphics/images/RMDS02E.jpg
-- doc/assets/graphics/images/MLAB_mosaic.jpg
-- doc/assets/graphics/images/Li-ion-Charger.jpg
-- doc/assets/graphics/images/ACOUNTER01A.jpg
 - doc/img/ALTIMET01A_I2C_top_big.jpg
 - doc/img/ALTIMET01A_top_small.jpg
 - doc/img/ALTIMET01A_big.jpg
@@ -20,10 +19,6 @@ images:
 - doc/html/Pictures/image001.jpg
 - doc/html/Pictures/image004.jpg
 - doc/html/Pictures/image003.jpg
-- doc/assets/graphics/images/RSMS01B.JPG
-- doc/assets/graphics/logo_MLAB_short.png
-- doc/assets/graphics/logo_MLAB_long.png
-- doc/assets/graphics/images/DIVISEK01.png
 - doc/img/graf.png
 - doc/img/KorekceTlakuZoom.png
 - doc/img/Stoupani.png
@@ -32,19 +27,7 @@ images:
 - doc/img/KorekceTlaku.png
 - doc/img/ALTIMET01A_QRcode.png
 - doc/img/Diagram1.png
-- doc/assets/templates/Fritzing/generic-male-header_bread_2x3.svg
-- doc/assets/templates/Fritzing/generic-male-header_bread_8.svg
-- doc/assets/templates/Fritzing/generic-male-header_bread_2.svg
-- doc/assets/templates/Fritzing/basic_pbutton.svg
-- doc/assets/templates/Fritzing/usb_connector.svg
-- doc/assets/templates/Fritzing/generic_male_pin_header_1_100mil_bread.svg
-- doc/assets/templates/Fritzing/generic-male-header_bread_2x8.svg
-- doc/assets/templates/Fritzing/generic-male-header_bread_3.svg
-- doc/assets/templates/Fritzing/src/M3.svg
-- doc/assets/graphics/MLAB_inside.svg
-- doc/assets/graphics/logo_MLAB_long.svg
-- doc/assets/graphics/powered_by_MLAB.svg
-- doc/assets/graphics/logo_MLAB_short.svg
+issues: 3
 mark: 50
 tags:
 - barometer
