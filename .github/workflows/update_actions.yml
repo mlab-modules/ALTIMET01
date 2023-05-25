@@ -18,8 +18,8 @@ jobs:
           
       - name: Update submodules
         run: |
-          git submodule sync
-          # git pull --recurse-submodules
+          git config remote.origin.fetch "+refs/heads/*:refs/remotes/origin/*"
+          git pull --recurse-submodules  --allow-unrelated-histories
           git submodule update --remote doc/assets/
     
       - name: Zaktualizovat skripty
