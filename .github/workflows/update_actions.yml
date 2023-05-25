@@ -16,9 +16,9 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-          
       - name: Update submodules
         run: |
+          git pull --recurse-submodules
           git submodule update --remote doc/assets/
     
       - name: Zaktualizovat skripty
