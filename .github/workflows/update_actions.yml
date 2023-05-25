@@ -16,9 +16,11 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-          
       - name: Update submodules
         run: |
+          git config remote.origin.fetch "+refs/heads/*:refs/remotes/origin/*"
+          git fetch --all
+          git pull --recurse-submodules  --allow-unrelated-histories
           git submodule update --remote doc/assets/
     
       - name: Zaktualizovat skripty
