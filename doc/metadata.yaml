@@ -1,4 +1,5 @@
-description: Precision barometric sensor
+description: 'Precision barometric sensor. Board is designed for MPL115A1 or MPL115A2
+  integrated sensor chips. '
 github_branch: ALTIMET01A
 github_branches:
 - ALTIMET01A
