@@ -30,10 +30,10 @@ images:
 - doc/img/Diagram1.png
 issues: 3
 mark: 50
+replaced: ALTIMET02
 tags:
 - barometer
 - barometric-pressure
 - mlab
 - mlab-module
 title: ALTIMET01
-replaced: ALTIMET02
