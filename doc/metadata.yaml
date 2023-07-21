@@ -6,6 +6,7 @@ github_branches:
 github_repo: ALTIMET01
 github_url: https://github.com/mlab-modules/ALTIMET01
 homepage: true
+image: doc/img/MPL3115A_small.jpg
 image_title: doc/img/ALTIMET01A_top_small.jpg
 images:
 - doc/img/MPL3115A_small.jpg
@@ -28,7 +29,7 @@ images:
 - doc/img/KorekceTlakuZoom.png
 - doc/img/Tlak_vyska.png
 - doc/img/Diagram1.png
-issues: 3
+issues: 2
 mark: 50
 replaced: ALTIMET02
 tags:
