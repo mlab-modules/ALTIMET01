@@ -6,7 +6,7 @@ github_branches:
 github_repo: ALTIMET01
 github_url: https://github.com/mlab-modules/ALTIMET01
 homepage: true
-image: doc/img/ALTIMET01A_I2C_top_big.jpg
+image_title: doc/img/ALTIMET01A_top_small.jpg
 images:
 - doc/img/MPL3115A_small.jpg
 - doc/img/altimet01a_testing_setup.jpg
