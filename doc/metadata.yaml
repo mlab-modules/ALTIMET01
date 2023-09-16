@@ -32,6 +32,7 @@ images:
 issues: 2
 mark: 50
 replaced: ALTIMET02
+status: 3
 tags:
 - barometer
 - barometric-pressure
