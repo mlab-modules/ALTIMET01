@@ -7,7 +7,7 @@ github_repo: ALTIMET01
 github_url: https://github.com/mlab-modules/ALTIMET01
 homepage: true
 image: doc/img/MPL3115A_small.jpg
-image_title: doc/img/MPL3115A_small.jpg
+image_title: doc/img/ALTIMET01A_SPI_top_big.jpg
 images:
 - doc/img/MPL3115A_small.jpg
 - doc/img/ALTIMET01A_testing.jpg
